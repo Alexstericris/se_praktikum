@@ -14,7 +14,7 @@ In addition to frontend work, I made significant contributions to the backend. S
 
 I also dedicated time to writing tests for the backend functionality. Testing is essential to ensure the robustness and reliability of our software. By creating comprehensive tests, we can identify and address potential issues early in the development process.
 
-### Ideas further development:
+### Ideas for further development:
 
 - Make a fullblown Rolemanagement Tool
 - Learn Rxjs
