@@ -1,0 +1,30 @@
+.sidebar{
+    width: 20vw;
+    min-height: 100vh;
+    background-color: #3B3B3B;
+    margin-right: 1vw;
+    border-top: #2B2B2B solid 1px;
+
+}
+
+.sideBarDiagramFlex{
+    display: flex;
+    flex-flow: row;
+
+}
+
+
+.sideBarFlex{
+    display: flex;
+    height: 75vh;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+}
+
+#submit{
+    margin-top: 15%;
+    margin-left: 10%;
+}

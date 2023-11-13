@@ -1,0 +1,86 @@
+#filtercontainer{
+    width: 80vw;
+    margin: 3vh auto;
+    display: flex;
+    flex-flow: column;
+}
+
+#filter_date{
+    width: 70%;
+    height: 10vh;
+    display: flex;
+    margin-left: 5vw;
+    margin-top: 5vh;
+}
+
+#filter_date_start{
+    margin-right: 3vw;
+    width: 50%;
+}
+
+#filter_user{
+    background-color: #636363;
+    margin-right: 3vw;
+    width: 50%;
+    max-height: 15vh;
+    max-width: 22.5%;
+    margin-left: 5vw;
+    margin-top: 3vh;
+}
+
+#user{
+    display: flex;
+    flex-flow: row;
+}
+
+#user_label{
+    color: white;
+}
+
+#user_placeholder {
+    color: white;
+}
+
+.datepicker{
+    background-color: #636363;
+    color: white;
+}
+
+#table{
+    width: 80vw;
+    background-color: #636363;
+    margin-top: 5vh;
+}
+
+#head{
+    background-color: #3b3b3b;
+}
+
+#dateArrow{
+    color: black;
+    background-color: #636363;
+}
+
+#headrow_action{
+    color: white;
+    margin: 20px;
+}
+
+#headrow{
+    color: white;
+    margin: 20px;
+    max-width: 20vw;
+}
+
+#row{
+    color: white;
+    margin: 2px;
+}
+
+.MuiTablePagination-menuItem{
+    color: black;
+}
+
+#text{
+    color: white;
+}

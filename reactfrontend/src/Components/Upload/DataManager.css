@@ -1,0 +1,27 @@
+.dataTree{
+    min-height: 75vh;
+    max-height: 75vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.uploadIcon{
+    margin-top: 10%;
+    margin-left: 80%;
+}
+
+.dataManagerFlex{
+    display: flex;
+    flex-flow: row;
+}
+
+.table{
+    max-height: 75vh;
+    margin-right: 1%;
+    margin-top: 1%;
+    display: flex;
+}
+
+.sidebar{
+    max-height: 85vh;
+}

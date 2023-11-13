@@ -1,0 +1,27 @@
+.chart{
+    min-height: 29vh;
+}
+.max{
+    min-height: 70vh;
+}
+.piechart{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 29vh;
+}
+
+.addCard{
+    height: 39vh;
+}
+
+.inputheader{
+    padding-top: 5%;
+    padding-left: 5%;
+    color: white;
+}
+
+.inputTree{
+    margin-top: 50%;
+    margin-left: 5%;
+}
